@@ -53,8 +53,6 @@ Flutter, Android and iOS
 
 [Video Link](https://gitlab.com/maz341/choco/-/raw/main/assets/screenshot/recording.mp4)
 
-![Video Demo](https://gitlab.com/maz341/choco/-/raw/main/assets/screenshot/recording.mp4)
-
 ## 🔗 Links
 
 [![Website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://maazkamal.com)
